@@ -1,5 +1,3 @@
-# Personel Portfolio
-
 # Hi, I am Rasit
 
 **Full stack web developer**
